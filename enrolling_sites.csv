@@ -1,0 +1,5 @@
+,cohort,facility_name,city,state,zip,LngLat
+0,Adult,facility 1,city A,ST,0,"0,0"
+1,Pregnancy,facility 2,city B,ST,0,"0,1"
+2,Pediatric,facility 3,city C,ST,0,"0,2"
+3,Autopsy,facility 4,city D,ST,0,"0,3"
